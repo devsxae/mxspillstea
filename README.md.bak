@@ -74,10 +74,8 @@
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=mxspillstea&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-
 <hr>
-
-<br><br><br><br><br><br>
+<br>
 <h4 align="center">
   <a href="https://github.com/mxspillstea?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>

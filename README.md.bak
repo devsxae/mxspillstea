@@ -21,9 +21,9 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
+  📚 I’m currently running an entire game development game by myself, without any documentation 
   <br>
-  📫 How to reach me: <a href="mailto: abdulhu6@gmail.com">abdulhu6@gmail.com</a>
+  📫 How to reach me: <a href="mailto: dsnfct@icloud.com">dsnfct@icloud.com</a>
 </p>
 
 <hr>
